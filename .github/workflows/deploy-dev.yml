@@ -32,7 +32,7 @@ jobs:
             cd "${{ env.REMOTE_DIR }}"
 
             echo "🔧 Fixing ownership and permissions"
-            sudo chown -R devt2mipcnnmvacl:www-data .
+            sudo chown -R devt2mipcnnmvacl:devt2mipcnnmvacl .
             sudo find . -type d -exec chmod 755 {} \;
             sudo find . -type f -exec chmod 644 {} \;
 
