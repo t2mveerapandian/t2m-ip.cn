@@ -123,7 +123,7 @@
 
     
 </footer>
-<div class="container"> <div class="row"> <div class="col-md-12  col-sm-12 text-center "> <p class="copy"><?php echo $d['copyright'];?> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=31010602008135" rel="noreferrer" target="_blank">沪公网安备31010602008135</a></p> </div> </div> </div> 
+<div class="container"> <div class="row"> <div class="col-md-12  col-sm-12 text-center "> <p class="copy">2026 <a href="https://beian.mps.gov.cn/#/query/webSearch?code=31010602008135" rel="noreferrer" target="_blank">沪公网安备31010602008135</a></p> </div> </div> </div> 
 
 
 <script>$(document).ready(function() {
