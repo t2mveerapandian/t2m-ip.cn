@@ -1,0 +1,419 @@
+<?php 
+@date_default_timezone_set("Asia/Kolkata");
+
+if(isset($_REQUEST['frm']) && $_REQUEST['frm']=='event'){
+
+$event_title = $_REQUEST['event_title'];
+$name = $_REQUEST['name'];	
+$designation = $_REQUEST['designation'];	
+$corporate_email = $_REQUEST['corporate_email'];	
+$company_url = $_REQUEST['company_url'];	
+$country = $_REQUEST['country'];	
+$contact = $_REQUEST['contact'];	
+$agenda = $_REQUEST['agenda'];
+$date_selected = $_REQUEST['date_selected'];
+$time_selected = $_REQUEST['time_selected'];
+$news_updated = $_REQUEST['news_updated'];	
+
+$message = '
+<html>
+<head>
+  <title>Event booking details</title>
+</head>
+<body>
+  <table>
+	<tr>
+      <td><b>Event title : &nbsp;</b></td><td>'.$event_title.'</td>
+    </tr>
+    <tr>
+      <td><b>Name : &nbsp;</b></td><td>'.$name.'</td>
+    </tr>
+	<tr>
+      <td><b>Designation : &nbsp;</b></td><td>'.$designation.'</td>
+    </tr>
+    <tr>
+      <td><b>Corporate email : &nbsp;</b></td><td>'.$corporate_email.'</td>
+    </tr>
+    <tr>
+      <td><b>Company url : &nbsp;</b></td><td>'.$company_url.'</td>
+    </tr>
+	 <tr>
+      <td><b>Country code : &nbsp;</b></td><td>'.$country.'</td>
+    </tr>
+	 <tr>
+      <td><b>Contact number : &nbsp;</b></td><td>'.$contact.'</td>
+    </tr>
+	 <tr>
+      <td><b>Date : &nbsp;</b></td><td>'.$date_selected.'</td>
+    </tr>
+	 <tr>
+      <td><b>Time : &nbsp;</b></td><td>'.$time_selected.'</td>
+    </tr>
+	<tr>
+      <td><b>Keep news update : &nbsp;</b></td><td>'.$news_updated.'</td>
+    </tr>
+	<tr>
+      <td><b>Meeting Agenda : &nbsp;</b></td><td>'.$agenda.'</td>
+    </tr>
+  </table>
+</body>
+</html>';
+ 		
+
+$subject = $event_title." event booking details from T2M IP ".date('d-m-Y h:s');
+
+send_email($corporate_email, $name, $message, $subject, 'mansi@t-2-m.com');
+ 
+echo 'success';
+}
+
+
+ 
+if(isset($_REQUEST['frm']) && $_REQUEST['frm']=='contact'){
+
+$name = $_REQUEST['name'];	
+$corporate_email = $_REQUEST['corporate_email'];	
+$company_url = $_REQUEST['company_url'];	
+$country = $_REQUEST['country'];	
+$contact = $_REQUEST['contact'];	
+$msg = $_REQUEST['message'];	
+$ip_schedule = $_REQUEST['ip_schedule'];	
+$tape_out_schedule = $_REQUEST['tape_out_schedule'];	
+$process_node = $_REQUEST['process_node'];	
+$ip_product = $_REQUEST['ip_product'];	
+$news_updated = $_REQUEST['news_updated'];	
+
+$message = '
+<html>
+<head>
+  <title>Enquiry details</title>
+</head>
+<body>
+  <table>
+    <tr>
+      <td><b>Name : &nbsp;</b></td><td>'.$name.'</td>
+    </tr>
+    <tr>
+      <td><b>Corporate email : &nbsp;</b></td><td>'.$corporate_email.'</td>
+    </tr>
+    <tr>
+      <td><b>Company url : &nbsp;</b></td><td>'.$company_url.'</td>
+    </tr>
+	 <tr>
+      <td><b>Country/Region : &nbsp;</b></td><td>'.$country.'</td>
+    </tr>
+	 <tr>
+      <td><b>Contact number : &nbsp;</b></td><td>'.$contact.'</td>
+    </tr>
+	 <tr>
+      <td><b>IP decision schedule : &nbsp;</b></td><td>'.$ip_schedule.'</td>
+    </tr>
+	 <tr>
+      <td><b>Tape out schedule : &nbsp;</b></td><td>'.$tape_out_schedule.'</td>
+    </tr>
+	<tr>
+      <td><b>Fab./Process node : &nbsp;</b></td><td>'.$process_node.'</td>
+    </tr>
+	<tr>
+      <td><b>IP product : &nbsp;</b></td><td>'.$ip_product.'</td>
+    </tr>
+	<tr>
+      <td><b>Keep news update : &nbsp;</b></td><td>'.$news_updated.'</td>
+    </tr>
+	<tr>
+      <td><b>Message : &nbsp;</b></td><td>'.$msg.'</td>
+    </tr>
+  </table>
+</body>
+</html>';
+ 		
+
+$subject = "Contact details from T2M IP ".date('d-m-Y h:s');
+
+send_email($corporate_email, $name, $message, $subject, 'mansi@t-2-m.com');
+ 
+echo 'success';
+ 
+}
+  
+if(isset($_REQUEST['frm']) && $_REQUEST['frm']=='subscribe1'){
+	
+$name = $_REQUEST['name'];	
+$email = $_REQUEST['email'];		
+$contact = $_REQUEST['contact'];	
+
+$message = '
+<html>
+<head>
+  <title>New user subscribed successfully with following details</title>
+</head>
+<body>
+  <table>
+    <tr>
+      <td><b>Name : &nbsp;</b></td><td>'.$name.'</td>
+    </tr>
+    <tr>
+      <td><b>Email : &nbsp;</b></td><td>'.$email.'</td>
+    </tr>
+	 <tr>
+      <td><b>Contact number : &nbsp;</b></td><td>'.$contact.'</td>
+    </tr>
+  </table>
+</body>
+</html>';
+ 		
+
+$subject = "New user subscribed successfully.";
+
+send_email($email, $name, $message, $subject, 'mansi@t-2-m.com');
+ 
+echo 'success';
+}
+ 
+ 
+ 
+ if(isset($_REQUEST['frm']) && $_REQUEST['frm']=='subscribehome'){
+	
+$name = $_REQUEST['name'];	
+$email = $_REQUEST['email'];		
+
+$message = '
+<html>
+<head>
+  <title>New user subscribed successfully with following details</title>
+</head>
+<body>
+  <table>
+    <tr>
+      <td><b>Name : &nbsp;</b></td><td>'.$name.'</td>
+    </tr>
+    <tr>
+      <td><b>Email : &nbsp;</b></td><td>'.$email.'</td>
+    </tr>
+  </table>
+</body>
+</html>';
+ 		
+
+$subject = "New user subscribed successfully.";
+
+send_email($email, $name, $message, $subject, 'mansi@t-2-m.com');
+ 
+echo 'success';
+}
+ 
+ 
+ if(isset($_REQUEST['frm']) && $_REQUEST['frm']=='product'){
+
+$product = $_REQUEST['product'];
+$name = $_REQUEST['first_name'].' '.$_REQUEST['last_name'];	
+$company_email = $_REQUEST['company_email'];
+$contact = $_REQUEST['contact'];
+$description = $_REQUEST['description'];	
+$company = $_REQUEST['company'];		
+$company_url = $_REQUEST['company_url'];
+$linklayer = $_REQUEST['linklayer'];	
+$country = $_REQUEST['country'];	
+$news_updated = $_REQUEST['news_updated'];	
+
+$message = '
+<html>
+<head>
+  <title>Request Datasheet details</title>
+</head>
+<body>
+  <table>
+	<tr>
+      <td><b>Product title : &nbsp;</b></td><td>'.$product.'</td>
+    </tr>
+    <tr>
+      <td><b>Name : &nbsp;</b></td><td>'.$name.'</td>
+    </tr>
+    <tr>
+      <td><b>Company email : &nbsp;</b></td><td>'.$company_email.'</td>
+    </tr>
+	<tr>
+      <td><b>Contact number : &nbsp;</b></td><td>'.$contact.'</td>
+    </tr>
+	<tr>
+      <td><b>Company : &nbsp;</b></td><td>'.$company.'</td>
+    </tr>
+    <tr>
+      <td><b>Company url : &nbsp;</b></td><td>'.$company_url.'</td>
+    </tr>
+	 <tr>
+      <td><b>Decision Schedule : &nbsp;</b></td><td>'.$linklayer.'</td>
+    </tr>
+	 <tr>
+      <td><b>Country : &nbsp;</b></td><td>'.$country.'</td>
+    </tr>
+	<tr>
+      <td><b>Keep news update : &nbsp;</b></td><td>'.$news_updated.'</td>
+    </tr>
+	
+  </table>
+</body>
+</html>';
+ 		
+
+$subject = "New datasheet request ".date('d-m-Y h:s');
+
+
+send_email($company_email, $name, $message, $subject, 'mansi@t-2-m.com');
+send_email($company_email, $name, $message, $subject, 'product-info-request@t-2-m.com');
+ 
+echo 'success';
+}
+ 
+ 
+if(isset($_REQUEST['frm']) && $_REQUEST['frm']=='career'){
+
+$applied_for = $_REQUEST['applied_for'];
+$name = $_REQUEST['name'];	
+$email = $_REQUEST['email'];
+$contact = $_REQUEST['contact'];
+$years_of_exp = $_REQUEST['years_of_exp'];	
+$resume = 'https://t-2-m.com/'.$_REQUEST['resume'];		
+
+$message = '
+<html>
+<head>
+  <title>Career post details</title>
+</head>
+<body>
+  <table>
+	<tr>
+      <td><b>Job Position : &nbsp;</b></td><td>'.$applied_for.'</td>
+    </tr>
+    <tr>
+      <td><b>Name : &nbsp;</b></td><td>'.$name.'</td>
+    </tr>
+    <tr>
+      <td><b>Email : &nbsp;</b></td><td>'.$email.'</td>
+    </tr>
+	<tr>
+      <td><b>Contact number : &nbsp;</b></td><td>'.$contact.'</td>
+    </tr>
+	<tr>
+      <td><b>Years of Experience : &nbsp;</b></td><td>'.$years_of_exp.'</td>
+    </tr>
+    <tr>
+      <td><b>Company url : &nbsp;</b></td><td>'.$company_url.'</td>
+    </tr>
+	 <tr>
+      <td><b>Resume : &nbsp;</b></td><td><a href="'.$resume.'">Download</a></td>
+    </tr>
+	
+  </table>
+</body>
+</html>';
+ 		
+
+$subject = "Career request ".date('d-m-Y h:s');
+
+send_email($email, $name, $message, $subject, 'mansi@t-2-m.com');
+ 
+echo 'success';
+} 
+ 
+ 
+ 
+if(isset($_REQUEST['frm']) && $_REQUEST['frm']=='downloadip'){
+
+$name = $_REQUEST['name'];	
+$corporate_email = $_REQUEST['corporate_email'];
+$alternate_id = $_REQUEST['alternate_id'];	
+$company_url = $_REQUEST['company_url'];	
+$country = $_REQUEST['country'];	
+$contact = $_REQUEST['contact'];	
+$message = $_REQUEST['message'];
+$news_updated = $_REQUEST['news_updated'];	
+
+$message = '
+<html>
+<head>
+  <title>Download IP Catalogue details</title>
+</head>
+<body>
+  <table>
+    <tr>
+      <td><b>Name : &nbsp;</b></td><td>'.$name.'</td>
+    </tr>
+    <tr>
+      <td><b>Corporate email : &nbsp;</b></td><td>'.$corporate_email.'</td>
+    </tr>
+	<tr>
+      <td><b>Alternate ID : &nbsp;</b></td><td>'.$alternate_id.'</td>
+    </tr>
+    <tr>
+      <td><b>Company url : &nbsp;</b></td><td>'.$company_url.'</td>
+    </tr>
+	 <tr>
+      <td><b>Country code : &nbsp;</b></td><td>'.$country.'</td>
+    </tr>
+	 <tr>
+      <td><b>Mobile number : &nbsp;</b></td><td>'.$contact.'</td>
+    </tr>
+	<tr>
+      <td><b>Keep news update : &nbsp;</b></td><td>'.$news_updated.'</td>
+    </tr>
+	<tr>
+      <td><b>Message : &nbsp;</b></td><td>'.$message.'</td>
+    </tr>
+  </table>
+</body>
+</html>';
+ 		
+
+$subject = "Download IP Catalogue details from T2M IP ".date('d-m-Y h:s');
+
+send_email($corporate_email, $name, $message, $subject, 'mansi@t-2-m.com');
+ 
+echo 'success';
+}  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+function send_email($email, $name, $message, $subject, $to)
+{
+	
+	require_once('phpmailer/PHPMailerAutoload.php');
+	
+	$email = $email;
+	$mail	= new PHPMailer; // call the class 
+	$mail->IsSMTP(); 
+	$mail->SMTPSecure = 'ssl';
+	$mail->Host = 'mail.t-2-m.com'; //Hostname of the mail server
+	$mail->Port = '465'; //Port of the SMTP like to be 25, 80, 465 or 587
+	$mail->SMTPAuth = true; //Whether to use SMTP authentication
+	$mail->SMTPAutoTLS = false;
+	$mail->Username = 'chat@t-2-m.com'; //Username for SMTP authentication any valid email created in your domain
+	$mail->Password = 'dL^fyGD^3(o_'; //Password for SMTP authentication
+	$mail->AddReplyTo($email, $name); //reply-to address
+	$mail->SetFrom("chat@t-2-m.com", "T2M"); //From address of the mail
+	$content = $message;
+	$mail->Subject = $subject; //Subject od your mail
+	$mail->CharSet = 'UTF-8';
+	$mail->AddAddress($to, ""); //To address who will receive this email
+	$mail->MsgHTML(trim($content)); //Put your body of the message you can place html code here
+	$send = $mail->Send();
+
+}
+?>
+

@@ -1,0 +1,372 @@
+[12-May-2018 09:40:28 America/Chicago] PHP Notice:  Undefined index: tutorial_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 17
+[13-May-2018 02:13:51 America/Chicago] PHP Notice:  Undefined index: tutorial_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 17
+[13-May-2018 02:18:56 America/Chicago] PHP Notice:  Undefined index: tutorial_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 17
+[13-May-2018 03:43:22 America/Los_Angeles] PHP Notice:  Undefined index: action in /home/syna9836/public_html/automationtraining4u.com/admin/functions/users.php on line 4
+[14-May-2018 14:15:51 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[14-May-2018 14:19:43 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[16-May-2018 03:41:15 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[18-May-2018 05:07:56 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[20-May-2018 12:14:48 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:14:48 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:14:48 America/Chicago] PHP Warning:  include(): Failed opening '../common/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:14:48 America/Chicago] PHP Fatal error:  Class 'ORM' not found in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 5
+[20-May-2018 12:15:50 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:15:50 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:15:50 America/Chicago] PHP Warning:  include(): Failed opening '../common/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:15:50 America/Chicago] PHP Fatal error:  Class 'ORM' not found in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 5
+[20-May-2018 12:26:16 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:26:16 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:26:16 America/Chicago] PHP Warning:  include(): Failed opening '../common/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:26:16 America/Chicago] PHP Fatal error:  Class 'ORM' not found in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 5
+[20-May-2018 12:26:52 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:26:52 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:26:52 America/Chicago] PHP Warning:  include(): Failed opening '../common/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[20-May-2018 12:26:52 America/Chicago] PHP Fatal error:  Class 'ORM' not found in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 5
+[27-May-2018 11:37:38 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[27-May-2018 11:37:38 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[27-May-2018 11:37:38 America/Chicago] PHP Warning:  include(): Failed opening '../common/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[27-May-2018 11:37:38 America/Chicago] PHP Fatal error:  Class 'ORM' not found in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 5
+[29-May-2018 06:38:32 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:38:32 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:38:32 America/Chicago] PHP Warning:  include(): Failed opening '../common/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:38:32 America/Chicago] PHP Fatal error:  Class 'ORM' not found in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 5
+[29-May-2018 06:44:51 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:44:51 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:44:51 America/Chicago] PHP Warning:  include(): Failed opening '../common/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:44:51 America/Chicago] PHP Fatal error:  Class 'ORM' not found in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 5
+[29-May-2018 06:46:56 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:46:56 America/Chicago] PHP Warning:  include(../common/config.php): failed to open stream: No such file or directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:46:56 America/Chicago] PHP Warning:  include(): Failed opening '../common/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 2
+[29-May-2018 06:46:56 America/Chicago] PHP Fatal error:  Class 'ORM' not found in /home/syna9836/public_html/automationtraining4u.com/admin/functions/middleware.php on line 5
+[29-May-2018 07:41:27 America/Chicago] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[30-May-2018 12:32:21 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[02-Jun-2018 08:34:01 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[03-Jun-2018 14:36:10 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[06-Jun-2018 13:41:49 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[06-Jun-2018 14:42:29 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[07-Jun-2018 11:43:35 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:38 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:51:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php:77) in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 49
+[12-Jun-2018 00:54:32 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[12-Jun-2018 00:55:25 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[15-Jun-2018 04:19:40 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[22-Jun-2018 02:34:09 America/Los_Angeles] PHP Notice:  Undefined index: action in /home/syna9836/public_html/automationtraining4u.com/admin/functions/users.php on line 4
+[22-Jun-2018 09:45:21 America/Los_Angeles] PHP Notice:  Undefined index: action in /home/syna9836/public_html/automationtraining4u.com/admin/functions/users.php on line 4
+[22-Jun-2018 09:45:52 America/Los_Angeles] PHP Notice:  Undefined index: action in /home/syna9836/public_html/automationtraining4u.com/admin/functions/users.php on line 4
+[24-Jun-2018 11:01:50 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[30-Jun-2018 02:45:04 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[13-Jul-2018 01:37:09 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[14-Jul-2018 02:15:12 America/Chicago] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[14-Jul-2018 02:15:24 America/Chicago] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[14-Jul-2018 02:15:32 America/Chicago] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[14-Jul-2018 02:15:40 America/Chicago] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[14-Jul-2018 02:15:46 America/Chicago] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[14-Jul-2018 02:15:53 America/Chicago] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[14-Jul-2018 02:15:59 America/Chicago] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/syna9836/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[24-Jul-2018 12:00:24 America/Los_Angeles] PHP Notice:  Undefined index: action in /home/syna9836/public_html/automationtraining4u.com/admin/functions/users.php on line 4
+[27-Jul-2018 01:11:32 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[02-Aug-2018 12:58:48 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[05-Aug-2018 02:37:11 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[05-Aug-2018 10:16:14 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[09-Aug-2018 08:24:39 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[11-Aug-2018 03:13:43 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[18-Aug-2018 02:01:41 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[07-Sep-2018 02:57:35 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[13-Sep-2018 08:38:03 America/Los_Angeles] PHP Notice:  Undefined index: action in /home/syna9836/public_html/automationtraining4u.com/admin/functions/users.php on line 4
+[29-Sep-2018 01:11:49 America/Chicago] PHP Notice:  Undefined index: course_title in /home/syna9836/public_html/automationtraining4u.com/admin/functions/course.php on line 18
+[28-Oct-2018 02:10:54 America/Chicago] PHP Notice:  Undefined variable: randstr in /home/syna9836/public_html/automationtraining4u.com/admin/functions/activities.php on line 77
+[30-Oct-2018 09:44:46 America/Los_Angeles] PHP Notice:  Undefined index: action in /home/syna9836/public_html/automationtraining4u.com/admin/functions/users.php on line 4
+[23-Nov-2018 22:35:12 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/synaps/public_html/automationtraining4u.com/common/config.php:55) in /home/synaps/public_html/automationtraining4u.com/admin/functions/users.php on line 57
+[23-Nov-2018 22:35:16 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/synaps/public_html/automationtraining4u.com/common/config.php:55) in /home/synaps/public_html/automationtraining4u.com/admin/functions/users.php on line 186
+[06-Jan-2019 11:25:09 UTC] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/synaps/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[06-Jan-2019 11:36:43 UTC] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/synaps/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[06-Jan-2019 11:36:57 UTC] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/synaps/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[06-Jan-2019 11:37:21 UTC] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/synaps/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[06-Jan-2019 16:24:34 UTC] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/synaps/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[06-Jan-2019 16:25:24 UTC] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/synaps/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[06-Jan-2019 16:25:56 UTC] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/synaps/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[08-Jan-2019 17:20:19 UTC] PHP Warning:  unlink(../../images/tutorial/): Is a directory in /home/synaps/public_html/automationtraining4u.com/admin/functions/tutorial.php on line 124
+[09-Apr-2021 14:08:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'course_title' in 'where clause'' in /home/mgsalons/public_html/t2m/common/orm.php:503
+Stack trace:
+#0 /home/mgsalons/public_html/t2m/common/orm.php(503): PDOStatement->execute()
+#1 /home/mgsalons/public_html/t2m/common/orm.php(1906): ORM::_execute('SELECT * FROM `...', Array, 'default')
+#2 /home/mgsalons/public_html/t2m/common/orm.php(685): ORM->_run()
+#3 /home/mgsalons/public_html/t2m/admin/functions/course.php(18): ORM->find_one()
+#4 /home/mgsalons/public_html/t2m/admin/functions/middleware.php(44): Course->add_course(Array)
+#5 /home/mgsalons/public_html/t2m/admin/functions/middleware.php(69): Middleware->__construct()
+#6 {main}
+  thrown in /home/mgsalons/public_html/t2m/common/orm.php on line 503
+[09-Apr-2021 14:10:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'features' cannot be null' in /home/mgsalons/public_html/t2m/common/orm.php:503
+Stack trace:
+#0 /home/mgsalons/public_html/t2m/common/orm.php(503): PDOStatement->execute()
+#1 /home/mgsalons/public_html/t2m/common/orm.php(2082): ORM::_execute('INSERT INTO `sy...', Array, 'default')
+#2 /home/mgsalons/public_html/t2m/admin/functions/course.php(44): ORM->save()
+#3 /home/mgsalons/public_html/t2m/admin/functions/middleware.php(44): Course->add_course(Array)
+#4 /home/mgsalons/public_html/t2m/admin/functions/middleware.php(69): Middleware->__construct()
+#5 {main}
+  thrown in /home/mgsalons/public_html/t2m/common/orm.php on line 503
+[12-Apr-2021 06:30:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mgsalons/public_html/t2m/admin/functions/course.php on line 55
+[12-Apr-2021 06:30:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'category' cannot be null' in /home/mgsalons/public_html/t2m/common/orm.php:503
+Stack trace:
+#0 /home/mgsalons/public_html/t2m/common/orm.php(503): PDOStatement->execute()
+#1 /home/mgsalons/public_html/t2m/common/orm.php(2082): ORM::_execute('INSERT INTO `sy...', Array, 'default')
+#2 /home/mgsalons/public_html/t2m/admin/functions/course.php(84): ORM->save()
+#3 /home/mgsalons/public_html/t2m/admin/functions/middleware.php(44): Course->add_course(Array)
+#4 /home/mgsalons/public_html/t2m/admin/functions/middleware.php(69): Middleware->__construct()
+#5 {main}
+  thrown in /home/mgsalons/public_html/t2m/common/orm.php on line 503
+[12-Apr-2021 06:46:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mgsalons/public_html/t2m/admin/functions/course.php on line 55
+[12-Apr-2021 06:46:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'category' cannot be null' in /home/mgsalons/public_html/t2m/common/orm.php:503
+Stack trace:
+#0 /home/mgsalons/public_html/t2m/common/orm.php(503): PDOStatement->execute()
+#1 /home/mgsalons/public_html/t2m/common/orm.php(2082): ORM::_execute('INSERT INTO `sy...', Array, 'default')
+#2 /home/mgsalons/public_html/t2m/admin/functions/course.php(84): ORM->save()
+#3 /home/mgsalons/public_html/t2m/admin/functions/middleware.php(44): Course->add_course(Array)
+#4 /home/mgsalons/public_html/t2m/admin/functions/middleware.php(69): Middleware->__construct()
+#5 {main}
+  thrown in /home/mgsalons/public_html/t2m/common/orm.php on line 503
+[12-Apr-2021 06:52:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mgsalons/public_html/t2m/admin/functions/course.php on line 55
+[12-Apr-2021 08:00:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mgsalons/public_html/t2m/admin/functions/course.php on line 134
+[12-Apr-2021 08:15:10 UTC] PHP Fatal error:  Call to undefined function is_arary() in /home/mgsalons/public_html/t2m/admin/functions/course.php on line 133
+[12-Apr-2021 08:15:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mgsalons/public_html/t2m/admin/functions/course.php on line 134
+[12-Apr-2021 08:16:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mgsalons/public_html/t2m/admin/functions/course.php on line 136
+[22-Dec-2021 07:03:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[22-Dec-2021 07:03:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[22-Dec-2021 07:04:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[22-Dec-2021 07:04:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[22-Dec-2021 07:06:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[22-Dec-2021 07:07:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[31-Dec-2021 13:24:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sort_order' in 'field list' in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:503
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(503): PDOStatement->execute()
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(2082): ORM::_execute('UPDATE `sys_pro...', Array, 'default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/course.php(243): ORM->save()
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(44): Course->edit_course(Array)
+#4 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(69): Middleware->__construct()
+#5 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 503
+[31-Dec-2021 13:24:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sort_order' in 'field list' in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:503
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(503): PDOStatement->execute()
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(2082): ORM::_execute('UPDATE `sys_pro...', Array, 'default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/course.php(243): ORM->save()
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(44): Course->edit_course(Array)
+#4 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(69): Middleware->__construct()
+#5 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 503
+[03-Jan-2022 06:47:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 07:43:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 07:44:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 07:44:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 07:44:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 07:47:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 08:04:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 08:04:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 08:04:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 09:51:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 09:51:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 09:56:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 10:34:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 10:34:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
+[03-Jan-2022 10:37:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php:328
+Stack trace:
+#0 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(328): PDO->__construct('mysql:host=loca...', 'webdez3j_pari_u...', 'M-ldjc6MV.$0', NULL)
+#1 /home2/webdez3j/public_html/parihomeservices.com/common/orm.php(311): ORM::_setup_db('default')
+#2 /home2/webdez3j/public_html/parihomeservices.com/common/config.php(28): ORM::for_table('sys_appconfig')
+#3 /home2/webdez3j/public_html/parihomeservices.com/admin/functions/middleware.php(2): include('/home2/webdez3j...')
+#4 {main}
+  thrown in /home2/webdez3j/public_html/parihomeservices.com/common/orm.php on line 328
