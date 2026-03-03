@@ -1,0 +1,50 @@
+name: 🚀 Core PHP Git Pull dev t2m_ip_cn Deployment
+
+on:
+  push:
+    branches:
+      - dev
+  workflow_dispatch:
+
+env:
+  SSH_PORT: 22
+  REMOTE_DIR: /home/devt2mipcnnmvacl/public_html
+
+jobs:
+  deploy:
+    name: 🛠 Deploy to Alibaba via Git Pull
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 🔐 Setup SSH Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEVT2MCN_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -p ${{ secrets.DEVT2MCN_SSH_PORT }} ${{ secrets.DEVT2MCN_ALIB_ECS_IP }} >> ~/.ssh/known_hosts
+
+      - name: 🚀 SSH Git Pull with Ownership Fix
+        run: |
+          ssh -o StrictHostKeyChecking=no -p ${{ secrets.DEVT2MCN_SSH_PORT }} \
+          ${{ secrets.DEVT2MCN_SSH_USERNAME }}@${{ secrets.DEVT2MCN_ALIB_ECS_IP }} '
+            echo "📂 Switching to project directory"
+            cd "${{ env.REMOTE_DIR }}"
+
+            echo "🔧 Fixing ownership and permissions"
+            sudo chown -R devt2mipcnnmvacl:www-data .
+            sudo find . -type d -exec chmod 755 {} \;
+            sudo find . -type f -exec chmod 644 {} \;
+
+            echo "🌀 Resetting local changes"
+            sudo git config --global --add safe.directory "${{ env.REMOTE_DIR }}"
+            sudo -u devt2mipcnnmvacl git reset --hard
+
+            echo "⬇️ Pulling latest changes from dev"
+            sudo -u devt2mipcnnmvacl git pull origin dev
+
+            echo "✅ Deployment complete."
+          '
+
+      - name: ✅ Done
+        run: echo "🎉 CI/CD Deployment completed!"
