@@ -1,5 +1,5 @@
 <footer class="footer2">
-<div class="container"> <div class="row"> <div class="col-md-12  col-sm-12 text-center "> <p class="copy"><?php echo $d['copyright'];?></p> </div> </div> </div> 
+<div class="container"> <div class="row"> <div class="col-md-12  col-sm-12 text-center "> <p class="copy">2026</p> </div> </div> </div> 
 </footer>
 
 <script>$(document).ready(function() {
